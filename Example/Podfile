@@ -1,0 +1,6 @@
+use_frameworks!
+target 'OMAScanCode_Tests' do
+  pod 'OMAScanCode', :path => '../'
+  
+  
+end
