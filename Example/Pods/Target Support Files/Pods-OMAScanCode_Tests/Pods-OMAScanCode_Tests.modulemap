@@ -1,0 +1,6 @@
+framework module Pods_OMAScanCode_Tests {
+  umbrella header "Pods-OMAScanCode_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

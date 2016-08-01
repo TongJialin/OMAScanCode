@@ -1,0 +1,6 @@
+framework module OMAScanCode {
+  umbrella header "OMAScanCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

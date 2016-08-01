@@ -1,0 +1,14 @@
+PODS:
+  - OMAScanCode (0.1.0)
+
+DEPENDENCIES:
+  - OMAScanCode (from `../`)
+
+EXTERNAL SOURCES:
+  OMAScanCode:
+    :path: ../
+
+SPEC CHECKSUMS:
+  OMAScanCode: efb11f12b5daa9685590f8d299b8fd946f4b6970
+
+COCOAPODS: 0.39.0
