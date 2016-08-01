@@ -32,9 +32,9 @@ TODO: Native two-dimensional code scanning. --TongJialin
 
   s.source_files = 'OMAScanCode/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'OMAScanCode' => ['OMAScanCode/Assets/*.png']
-  # }
+   s.resource_bundles = {
+     'OMAScanCode' => ['OMAScanCode/Assets/*.png']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
